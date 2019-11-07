@@ -1,0 +1,823 @@
+﻿Log file open, 11/07/19 13:33:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: allmap
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.742519
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.07-05.33.43:535][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.07-05.33.43:535][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.07-05.33.43:536][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.33.43:536][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.07-05.33.43:536][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.33.43:536][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.33.43:536][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.07-05.33.43:537][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.33.43:537][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.33.43:544][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-05.33.43:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-05.33.43:545][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-05.33.43:546][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-05.33.43:546][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.07-05.33.43:558][  0]LogHAL: Display: Platform has ~ 8 GB [8511586304 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.07-05.33.43:558][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.07-05.33.43:559][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-05.33.43:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-05.33.43:560][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.07-05.33.43:576][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.07-05.33.43:576][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.07-05.33.43:576][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.33.43:577][  0]LogInit: Computer: DESKTOP-NI8LV4I
+[2019.11.07-05.33.43:577][  0]LogInit: User: win10
+[2019.11.07-05.33.43:577][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.11.07-05.33.43:577][  0]LogInit: High frequency timer resolution =2.437504 MHz
+[2019.11.07-05.33.43:578][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.07-05.33.43:578][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.07-05.33.43:578][  0]LogMemory: Process Physical Memory: 99.61 MB used, 99.61 MB peak
+[2019.11.07-05.33.43:578][  0]LogMemory: Process Virtual Memory: 99.40 MB used, 99.40 MB peak
+[2019.11.07-05.33.43:578][  0]LogMemory: Physical Memory: 3711.05 MB used,  4406.23 MB free, 8117.28 MB total
+[2019.11.07-05.33.43:578][  0]LogMemory: Virtual Memory: 4668.21 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.11.07-05.33.43:587][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.07-05.33.43:929][  0]LogInit: Using OS detected language (zh-CN).
+[2019.11.07-05.33.43:930][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.11.07-05.33.43:932][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2019.11.07-05.33.44:259][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.11.07-05.33.44:259][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.11.07-05.33.44:259][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.11.07-05.33.44:259][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.11.07-05.33.44:259][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.11.07-05.33.44:259][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.11.07-05.33.44:259][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.11.07-05.33.44:260][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.11.07-05.33.44:260][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.11.07-05.33.44:260][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.11.07-05.33.44:260][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.11.07-05.33.44:313][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.07-05.33.44:535][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.07-05.33.44:535][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.07-05.33.49:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-05.33.49:723][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.07-05.33.49:788][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2019.11.07-05.33.49:788][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.07-05.33.49:792][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.07-05.33.49:792][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.07-05.33.49:792][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.07-05.33.49:807][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.07-05.33.49:807][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.07-05.33.49:807][  0]LogWindows: EnumDisplayDevices:
+[2019.11.07-05.33.49:807][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2019.11.07-05.33.49:807][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.11.07-05.33.49:808][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.11.07-05.33.49:809][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.11.07-05.33.49:809][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2019.11.07-05.33.49:810][  0]LogD3D11RHI:   Driver Version: 24.20.100.6299 (internal:24.20.100.6299, unified:24.20.100.6299)
+[2019.11.07-05.33.49:810][  0]LogD3D11RHI:      Driver Date: 10-11-2018
+[2019.11.07-05.33.49:810][  0]LogRHI: Texture pool is 1510 MB (70% of 2157 MB)
+[2019.11.07-05.33.49:853][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.07-05.33.49:887][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.11.07-05.33.51:687][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.07-05.33.51:737][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.07-05.33.51:770][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.07-05.33.51:806][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.07-05.33.51:855][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.07-05.33.51:900][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.07-05.33.51:948][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.07-05.33.51:996][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.07-05.33.52:035][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.07-05.33.52:155][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.07-05.33.52:155][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.07-05.33.52:155][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.07-05.33.52:155][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.07-05.33.52:155][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.07-05.33.52:155][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.07-05.33.52:156][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.07-05.33.52:184][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.07-05.33.52:298][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.07-05.33.52:298][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.07-05.33.52:341][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.07-05.33.52:341][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.07-05.33.52:372][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.07-05.33.52:402][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.07-05.33.52:436][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.07-05.33.52:476][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.07-05.33.52:557][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.07-05.33.52:557][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.07-05.33.52:557][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.07-05.33.52:705][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.07-05.33.53:465][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (E:/game/Unreal Projects/灰盒子-到山洞 4.23/Intermediate/Shaders/WorkingDirectory/12924/).
+[2019.11.07-05.33.53:465][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/win10/AppData/Local/Temp/UnrealShaderWorkingDir/E768D0C54278548B3A9B09B4D963116E/'.
+[2019.11.07-05.33.53:470][  0]LogXGEController: Cleaning working directory: C:/Users/win10/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.07-05.33.53:470][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.07-05.33.53:470][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.07-05.33.53:470][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.07-05.33.58:726][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.07-05.33.58:918][  0]LogDerivedDataCache: Loaded boot cache 0.19s 73MB C:/Users/win10/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.07-05.33.58:918][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/win10/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.07-05.33.58:918][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/game/Unreal Projects/灰盒子-到山洞 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.07-05.33.58:918][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.07-05.33.58:918][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/game/Unreal Projects/灰盒子-到山洞 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-05.33.58:918][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.07-05.33.58:953][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.07-05.33.58:953][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-05.33.58:953][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.07-05.33.58:966][  0]LogDerivedDataCache: Using Local data cache path C:/Users/win10/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.07-05.33.58:966][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.07-05.33.58:967][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.07-05.33.59:013][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.07-05.33.59:023][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.07-05.33.59:044][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.07-05.33.59:664][  0]LogAssetRegistry: FAssetRegistry took 0.0526 seconds to start up
+[2019.11.07-05.34.00:479][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-05.34.01:410][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.07-05.34.01:410][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.07-05.34.01:410][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.07-05.34.01:410][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.07-05.34.01:411][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.07-05.34.01:495][  0]LogNetVersion: allmap 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 844902031)
+[2019.11.07-05.34.03:796][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.231176 seconds
+[2019.11.07-05.34.03:814][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.07-05.34.03:815][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.07-05.34.03:815][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.07-05.34.12:092][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.07-05.34.12:131][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.07-05.34.12:954][  0]SourceControl: 源码管理已禁用
+[2019.11.07-05.34.12:954][  0]SourceControl: 源码管理已禁用
+[2019.11.07-05.34.12:994][  0]SourceControl: 源码管理已禁用
+[2019.11.07-05.34.13:018][  0]SourceControl: 源码管理已禁用
+[2019.11.07-05.34.14:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.07-05.34.14:940][  0]LogOcInput: OculusInput pre-init called
+[2019.11.07-05.34.15:021][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.07-05.34.15:021][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.07-05.34.15:374][  0]LogEngine: Initializing Engine...
+[2019.11.07-05.34.15:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-05.34.15:383][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2019.11.07-05.34.16:024][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.07-05.34.16:096][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.07-05.34.16:133][  0]LogInit: XAudio2 using '耳机 (WH-H800 (h.ear) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-05.34.16:164][  0]LogInit: FAudioDevice initialized.
+[2019.11.07-05.34.16:165][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.07-05.34.16:242][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/win10/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.07-05.34.16:249][  0]LogInit: Texture streaming: Enabled
+[2019.11.07-05.34.16:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.07-05.34.16:405][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.07-05.34.16:408][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.07-05.34.16:603][  0]LogInit: Transaction tracking system initialized
+[2019.11.07-05.34.16:817][  0]BlueprintLog: New page: 编辑器加载
+[2019.11.07-05.34.17:445][  0]LocalizationService: 本地化服务已禁用
+[2019.11.07-05.34.18:882][  0]LogFileCache: Scanning file cache for directory 'E:/game/Unreal Projects/灰盒子-到山洞 4.23/Content/' took 0.01s
+[2019.11.07-05.34.18:882][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.07-05.34.18:882][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.07-05.34.20:273][  0]SourceControl: 源码管理已禁用
+[2019.11.07-05.34.20:275][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.07-05.34.20:283][  0]LightingResults: New page: 光照构建
+[2019.11.07-05.34.20:293][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.34.20:299][  0]MapCheck: New page: 地图检测
+[2019.11.07-05.34.20:299][  0]LightingResults: New page: 光照构建
+[2019.11.07-05.34.20:328][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.11.07-05.34.20:558][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.07-05.34.20:588][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.07-05.34.20:623][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.07-05.34.20:623][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.07-05.34.20:624][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.458毫秒。
+[2019.11.07-05.34.20:624][  0]LogFileHelpers: Loading map 'Template_Default' took 0.351
+[2019.11.07-05.34.20:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.34.20:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.34.20:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.34.20:864][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.34.20:913][  0]LogCollectionManager: Loaded 0 collections in 0.003170 seconds
+[2019.11.07-05.34.20:933][  0]LogFileCache: Scanning file cache for directory 'E:/game/Unreal Projects/灰盒子-到山洞 4.23/Saved/Collections/' took 0.00s
+[2019.11.07-05.34.20:933][  0]LogFileCache: Scanning file cache for directory 'E:/game/Unreal Projects/灰盒子-到山洞 4.23/Content/Developers/win10/Collections/' took 0.00s
+[2019.11.07-05.34.20:933][  0]LogFileCache: Scanning file cache for directory 'E:/game/Unreal Projects/灰盒子-到山洞 4.23/Content/Collections/' took 0.00s
+[2019.11.07-05.34.20:933][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.11.07-05.34.20:950][  0]LogContentBrowser: Native class hierarchy populated in 0.0163 seconds. Added 2872 classes and 685 folders.
+[2019.11.07-05.34.20:965][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.11.07-05.34.21:503][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.07-05.34.21:537][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.07-05.34.21:619][  0]LogSlate: Took 0.013090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.07-05.34.21:630][  0]LogSlate: Took 0.009602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.07-05.34.21:643][  0]LogSlate: Took 0.013556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.11.07-05.34.21:681][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.07-05.34.21:682][  0]LogLoad: (Engine Initialization) Total time: 45.14 seconds
+[2019.11.07-05.34.21:682][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.07-05.34.21:772][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.07-05.34.21:788][  0]LogSlate: Took 0.010809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.07-05.34.22:284][  2]LogRenderer: Reallocating scene render targets to support 604x512 Format 10 NumSamples 1 (Frame:1).
+[2019.11.07-05.34.23:687][ 18]LogAssetRegistry: Asset discovery search completed in 24.0667 seconds
+[2019.11.07-05.34.23:696][ 18]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000014 seconds (found 0 objects)
+[2019.11.07-05.34.23:696][ 18]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2019.11.07-05.35.15:045][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.35.15:238][214]LogRenderer: Reallocating scene render targets to support 648x540 Format 10 NumSamples 1 (Frame:64).
+[2019.11.07-05.35.17:919][281]LogSlate: Took 0.012247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-05.35.21:292][281]LogAIModule: Creating AISystem for world allmap
+[2019.11.07-05.35.21:583][281]LogAssetEditorManager: Opening Asset editor for World /Game/test-graybox-original/allmap.allmap
+[2019.11.07-05.35.21:617][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.07-05.35.21:619][281]Cmd: MAP LOAD FILE="E:/game/Unreal Projects/灰盒子-到山洞 4.23/Content/test-graybox-original/allmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.07-05.35.21:619][281]LightingResults: New page: 光照构建
+[2019.11.07-05.35.21:620][281]LoadErrors: New page: 正在加载地图：allmap.umap
+[2019.11.07-05.35.21:621][281]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.21:621][281]MapCheck: New page: 地图检测
+[2019.11.07-05.35.21:621][281]LightingResults: New page: 光照构建
+[2019.11.07-05.35.21:652][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.07-05.35.21:908][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.07-05.35.21:982][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.11.07-05.35.22:017][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.07-05.35.22:019][281]MapCheck: 地图检测完成：0个错误、0个警告、完成用时1.456毫秒。
+[2019.11.07-05.35.22:019][281]LogFileHelpers: Loading map 'allmap' took 0.402
+[2019.11.07-05.35.22:132][282]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C8C6921F-4E28-65C0-A968-C287D1796F99}
+[2019.11.07-05.35.43:293][775]LogHttp: Warning: 000002880F14DE40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.07-05.35.43:293][775]LogHttp: Warning: 000002880F14DE40: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.11.07-05.35.43:293][775]LogHttp: Warning: 000002880F14DE40: libcurl info message cache 0 (  Trying 155.89.14.22...)
+[2019.11.07-05.35.43:293][775]LogHttp: Warning: 000002880F14DE40: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.11.07-05.35.43:293][775]LogHttp: Warning: 000002880F14DE40: libcurl info message cache 2 (connect to 155.89.14.22 port 443 failed: Timed out)
+[2019.11.07-05.35.43:293][775]LogHttp: Warning: 000002880F14DE40: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.11.07-05.35.43:293][775]LogHttp: Warning: 000002880F14DE40: libcurl info message cache 4 (Closing connection 0)
+[2019.11.07-05.35.43:335][776]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.07-05.36.39:877][ 98]LogRenderer: Reallocating scene render targets to support 704x540 Format 10 NumSamples 1 (Frame:1817).
+[2019.11.07-05.36.39:995][ 99]LogRenderer: Reallocating scene render targets to support 800x540 Format 10 NumSamples 1 (Frame:1819).
+[2019.11.07-05.36.40:113][100]LogRenderer: Reallocating scene render targets to support 872x540 Format 10 NumSamples 1 (Frame:1821).
+[2019.11.07-05.36.49:106][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (模拟书架上的药水瓶)
+[2019.11.07-05.37.00:953][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.38.01:184][712]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.07-05.38.04:393][848]LogHttp: Warning: 000002880CB51940: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.07-05.38.04:393][848]LogHttp: Warning: 000002880CB51940: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.11.07-05.38.04:393][848]LogHttp: Warning: 000002880CB51940: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.07-05.38.04:393][848]LogHttp: Warning: 000002880CB51940: libcurl info message cache 1 (  Trying 155.89.14.22...)
+[2019.11.07-05.38.04:394][848]LogHttp: Warning: 000002880CB51940: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.07-05.38.04:394][848]LogHttp: Warning: 000002880CB51940: libcurl info message cache 3 (connect to 155.89.14.22 port 443 failed: Timed out)
+[2019.11.07-05.38.04:394][848]LogHttp: Warning: 000002880CB51940: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.11.07-05.38.04:394][848]LogHttp: Warning: 000002880CB51940: libcurl info message cache 5 (Closing connection 1)
+[2019.11.07-05.38.04:394][848]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.07-05.38.19:156][424]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/书架上的药水瓶掉落.书架上的药水瓶掉落
+[2019.11.07-05.39.05:977][849]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.07-05.39.12:994][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.39.33:256][ 26]LogVSAccessor: Warning: Couldn't set focus on Visual Studio.
+[2019.11.07-05.39.33:256][ 26]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.11.07-05.39.33:268][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:268][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:268][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:268][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:269][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:269][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:269][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:269][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:270][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:270][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:270][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:270][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:270][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:271][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:271][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:271][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:271][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:271][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:271][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:271][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:272][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:272][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:272][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:272][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:272][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:272][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:273][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:273][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:273][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:274][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:274][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:274][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:274][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:274][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:275][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:275][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:275][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:275][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:275][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:276][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:276][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:276][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:276][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:277][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:277][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:277][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:277][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:277][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:278][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:278][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:278][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:278][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:278][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:279][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:279][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:279][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:280][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:282][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:282][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:282][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:282][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:283][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:283][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:283][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:283][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:283][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:284][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:284][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:286][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:286][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:287][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:287][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:287][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:288][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:288][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:289][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:289][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:290][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:290][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:290][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:291][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:294][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:294][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:296][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:296][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:296][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:297][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:299][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:299][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:300][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:300][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:300][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:301][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:301][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:309][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:309][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:309][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:311][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:311][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:311][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:311][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:312][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:312][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:312][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:312][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:377][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:377][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:456][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:456][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:456][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:670][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:670][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:766][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:775][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:788][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:807][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:807][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:827][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:837][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.39.33:837][ 26]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: libcurl info message cache 1 (  Trying 155.89.14.22...)
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: libcurl info message cache 3 (connect to 155.89.14.22 port 443 failed: Timed out)
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: 000002880CB51300: libcurl info message cache 5 (Closing connection 2)
+[2019.11.07-05.40.25:669][182]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.07-05.40.55:924][271]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.07-05.41.00:372][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.41.52:438][931]LogEditorViewport: Clicking on Actor (LMB): 书架_StaticMesh_Blueprint_C (书架_StaticMesh_Blueprint)
+[2019.11.07-05.41.53:971][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (模拟书架上的药水瓶)
+[2019.11.07-05.42.00:129][ 20]LogEditorViewport: Clicking on Actor (LMB): 书架_StaticMesh_Blueprint_C (书架_StaticMesh_Blueprint)
+[2019.11.07-05.42.00:753][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (模拟书架上的药水瓶)
+[2019.11.07-05.42.05:965][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.42.07:246][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (模拟书架上的药水瓶)
+[2019.11.07-05.42.19:909][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.42.21:596][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.42.44:641][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (模拟书架上的药水瓶)
+[2019.11.07-05.42.46:814][574]LogHttp: Warning: 000002880CBCAD40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.07-05.42.46:814][574]LogHttp: Warning: 000002880CBCAD40: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.11.07-05.42.46:814][574]LogHttp: Warning: 000002880CBCAD40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.11.07-05.42.46:814][574]LogHttp: Warning: 000002880CBCAD40: libcurl info message cache 1 (  Trying 155.89.14.22...)
+[2019.11.07-05.42.46:814][574]LogHttp: Warning: 000002880CBCAD40: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.11.07-05.42.46:814][574]LogHttp: Warning: 000002880CBCAD40: libcurl info message cache 3 (connect to 155.89.14.22 port 443 failed: Timed out)
+[2019.11.07-05.42.46:814][574]LogHttp: Warning: 000002880CBCAD40: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.11.07-05.42.46:816][574]LogHttp: Warning: 000002880CBCAD40: libcurl info message cache 5 (Closing connection 3)
+[2019.11.07-05.42.46:816][574]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1510B041-4F87-3163-62CC-AF898E3F3871%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e9b7a2584840d2802f25b8a555f4092d%7Cebb76cd1f65543ab83df78334657d06e%7C0c7bfba6-b558-4877-a31d-eeb97b47de05&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.07-05.42.51:496][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.43.00:883][731]LogEditorViewport: Clicking on Actor (LMB): 书架_StaticMesh_Blueprint_C (书架_StaticMesh_Blueprint)
+[2019.11.07-05.43.04:866][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.43.04:987][792]LogTemp: Repeating last play command: 选中的视口
+[2019.11.07-05.43.05:033][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/test-graybox-original/allmap.allmap:PersistentLevel' has LevelScriptBlueprint '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap' with GeneratedClass '/Game/test-graybox-original/allmap.allmap_C' with ClassGeneratedBy '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap'
+[2019.11.07-05.43.05:034][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-05.43.05:036][792]PIE: New page: PIE会话：allmap（2019年11月7日 下午9:43:05）
+[2019.11.07-05.43.05:040][792]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.07-05.43.05:043][792]LogPlayLevel: Creating play world package: /Game/test-graybox-original/UEDPIE_0_allmap
+[2019.11.07-05.43.05:299][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.254661s)
+[2019.11.07-05.43.05:302][792]LogAIModule: Creating AISystem for world allmap
+[2019.11.07-05.43.05:302][792]LogPlayLevel: PIE: World Init took: (0.003268s)
+[2019.11.07-05.43.05:302][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test-graybox-original/allmap.allmap to /Game/test-graybox-original/UEDPIE_0_allmap.allmap (0.258464s)
+[2019.11.07-05.43.05:353][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.07-05.43.05:380][792]LogInit: XAudio2 using '耳机 (WH-H800 (h.ear) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-05.43.05:399][792]LogInit: FAudioDevice initialized.
+[2019.11.07-05.43.05:413][792]LogLoad: Game class is 'GameModeBase'
+[2019.11.07-05.43.05:440][792]LogWorld: Bringing World /Game/test-graybox-original/UEDPIE_0_allmap.allmap up for play (max tick rate 60) at 2019.11.07-13.43.05
+[2019.11.07-05.43.05:443][792]LogWorld: Bringing up level for play took: 0.027383
+[2019.11.07-05.43.05:443][792]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.11.07-05.43.05:467][792]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.11.07-05.43.05:468][792]PIE: /Game/test-graybox-original/UEDPIE_0_allmap在编辑器中运行的起始时间0.98
+[2019.11.07-05.43.05:485][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/test-graybox-original/allmap.allmap:PersistentLevel' has LevelScriptBlueprint '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap' with GeneratedClass '/Game/test-graybox-original/allmap.allmap_C' with ClassGeneratedBy '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap'
+[2019.11.07-05.43.05:535][793]LogBlueprintUserMessages: [jingwei-BP2_17] -58.533749
+[2019.11.07-05.43.08:645][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/test-graybox-original/allmap.allmap:PersistentLevel' has LevelScriptBlueprint '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap' with GeneratedClass '/Game/test-graybox-original/allmap.allmap_C' with ClassGeneratedBy '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap'
+[2019.11.07-05.43.08:649][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.43.08:650][841]LogWorld: BeginTearingDown for /Game/test-graybox-original/UEDPIE_0_allmap
+[2019.11.07-05.43.08:650][841]LogWorld: UWorld::CleanupWorld for allmap, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.43.08:741][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-05.43.08:742][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/test-graybox-original/allmap.allmap:PersistentLevel' has LevelScriptBlueprint '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap' with GeneratedClass '/Game/test-graybox-original/allmap.allmap_C' with ClassGeneratedBy '/Game/test-graybox-original/allmap.allmap:PersistentLevel.allmap'
+[2019.11.07-05.43.08:800][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.43.08:810][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.07-05.43.08:838][842]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.07-05.43.16:769][982]LogEditorViewport: Clicking on Actor (LMB): 书架_StaticMesh_Blueprint_C (书架_StaticMesh_Blueprint)
+[2019.11.07-05.43.18:918][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.43.28:908][142]LogWindows: Error: === Critical error: ===
+[2019.11.07-05.43.28:908][142]LogWindows: Error: 
+[2019.11.07-05.43.28:908][142]LogWindows: Error: Fatal error!
+[2019.11.07-05.43.28:908][142]LogWindows: Error: 
+[2019.11.07-05.43.28:908][142]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x1d1f0000
+[2019.11.07-05.43.28:908][142]LogWindows: Error: 
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff80bee5e29 UE4Editor-Sequencer.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff80becb965 UE4Editor-Sequencer.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff813ae15ea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff80becb859 UE4Editor-Sequencer.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff813a7abd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff813ae1827 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff813e7071e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff80c3a2761 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff817161787 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff8153fb0d6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff8151b4220 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff8152398a1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff815224c9c UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff815219768 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.43.28:908][142]LogWindows: Error: [Callstack] 0x00007ff815d24e53 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff815d126df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff815d27340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff815d0edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff868a57281 USER32.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff868a56c53 USER32.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff815d288e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff605f26980 UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff605f3a91c UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff605f3a9fa UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff605f4b92c UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff605f4e60e UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff868c94034 KERNEL32.DLL!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: [Callstack] 0x00007ff868ee3691 ntdll.dll!UnknownFunction []
+[2019.11.07-05.43.28:909][142]LogWindows: Error: 
+[2019.11.07-05.43.28:945][142]LogExit: Executing StaticShutdownAfterError
+[2019.11.07-05.43.28:953][142]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.11.07-05.43.28:963][142]Log file closed, 11/07/19 13:43:28
