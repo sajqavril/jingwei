@@ -1,2 +1,3 @@
 # jingwei game project
-  test
+  under construction...
+  Happy new year!
